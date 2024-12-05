@@ -12,5 +12,5 @@ This project processes speech to clean stuttered speech and convert it back into
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/SpeechProcessingProject.git
-   cd SpeechProcessingProject
+   git clone https://github.com/KGK-7/speech-processing-NLP.git
+   cd speech-processing-NLP
